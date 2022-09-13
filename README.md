@@ -12,12 +12,14 @@
 </p>
 
 <br />
+<br />
 
-<div align="center">
-    <li><a href="#⚙️-web-development">Web Development</a></li>
-    <li><a href="#⚙️-software-package-development">Software Package Development</a></li>
-    <li><a href="#⚙️-general-program-development">General Program Development</a></li>
-</div>
+- [About Me](#about-me)
+- [Software Development](#software-development)
+  - [⚙️ Web Development](#️-web-development)
+  - [⚙️ Software Package Development](#️-software-package-development)
+  - [⚙️ General Program Development](#️-general-program-development)
+- [Contact Me](#contact-me)
 
 <br />
 <br />
@@ -39,9 +41,11 @@ I do not like Copy and Paste. I believe that I got to have more fun in software 
 
 There are some categories of software development that I have been working or am working in at this time.
 
+<br />
+
 ### ⚙️ Web Development
 
-#### About My Web Development
+**About My Web Development**
 
 I have nothing to say about software development without mentioning my web development journey. I started with web development, _ex. building a simple `index.html` page_, to deploying intermediate web applicaitons using more advanced technologies like **React** and **NextJs**.
 
@@ -52,6 +56,8 @@ I have nothing to say about software development without mentioning my web devel
 - [TypeScript](https://reactjs.org)
 - [TailwindCSS](https://reactjs.org)
 - [Firebase](https://reactjs.org)
+
+<br />
 
 ### ⚙️ Software Package Development
 
@@ -66,6 +72,8 @@ As I develop more complicated projects as I learn more about software developmen
 **My Software Packages**
 
 _Currently there is no package that I am able to show in public_. I will create one for demonstration in near future and update it here.
+
+<br />
 
 ### ⚙️ General Program Development
 
